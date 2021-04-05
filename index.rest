@@ -1,0 +1,20 @@
+GET http://localhost:3000/api/proyectos
+# GET http://localhost:3000/api/proyectos/6067e914d908fc2afc7a2a32
+# POST http://localhost:3000/api/proyectos
+# content-type: application/json
+
+# {
+#     "titulo": "sample",
+#     "descripcion": "proyecto sample creado con love",
+#     "tecnologias":["React","NodeJs","css","Netlify"],
+#     "link":"www.google.cl"
+# }
+# PUT  http://localhost:3000/api/proyectos/6067e914d908fc2afc7a2a32
+# content-type: application/json
+
+# {
+# "itemToChange":"titulo",
+# "changes":"Como beber una botella en menos de un minuto"
+
+# }
+# DELETE http://localhost:3000/api/proyectos/6067e914d908fc2afc7a2a32
